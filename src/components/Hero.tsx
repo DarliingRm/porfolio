@@ -16,7 +16,7 @@ const Hero = () => {
       <div className="container mx-auto px-6 text-center relative z-10">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-            Hi, I'm Malala 👋
+            Hi, I'm Malala Ramangason 👋
           </h1>
           
           <h2 className="text-2xl md:text-3xl text-ocean-light mb-8 font-light">
